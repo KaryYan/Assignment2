@@ -28,3 +28,24 @@ function mean {
 	cat $csv_file | awk -F',' '{sum+=$5} END {print "Mean of set fine amount is " sum/NR}'
 } 
 ```
+
+## ✅ How to get staretd? (It's easy!)
+- Step 1, download the following files:
+  - A parking ticket csv file that you are interested in from [City of Toronto portal](https://open.toronto.ca/dataset/parking-tickets/) 
+  - The script: Yongran_Assignmen1.sh
+
+❣️ To make things easier, download them into the **same folder**.
+
+- Step 2, open the terminal and browse to your working directory.
+
+- Step 3, authorize the script:
+```
+chmod 775 Yongran_Assignmen1.sh
+```
+
+- Step 4, run the script with the csv file:
+``` 
+./Yongran_Assignment1.sh (you csv file)
+```
+
+✨ Now you should see all the parking infraction types and the mean, max and min fine amounts in the files. In addition, be sure to check your folder for the new csv file to know more about the "park on private property" part!
