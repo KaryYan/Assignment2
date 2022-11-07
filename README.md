@@ -2,6 +2,9 @@
 
 # Toronto Parking Infraction Records
 
+
 ## To understand different infractions and fines
 
 ![w:1000 center](pic/fine.jpeg)
+
+
