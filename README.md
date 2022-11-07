@@ -4,11 +4,6 @@
  
 ### 💌 To understand parking different infractions and fines
 
-
-
-## To understand different infractions and fines
-
-
 <img align="center" width="1000" height="500" src=pic/fine.jpeg>
 
 ## 📃 Project Description
