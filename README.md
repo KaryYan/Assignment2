@@ -49,3 +49,14 @@ chmod 775 Yongran_Assignmen1.sh
 ```
 
 ✨ Now you should see all the parking infraction types and the mean, max and min fine amounts in the files. In addition, be sure to check your folder for the new csv file to know more about the "park on private property" part!
+
+## 💪🏻 Support
+If you would need any support, please post it on [Issues](https://github.com/KaryYan/Assignment2/issues) and I will reply to you as soon as possible :)
+
+## 💻 Contributing
+If you would like to contribute to the project:
+- Initiate a [pull request](https://github.com/KaryYan/Assignment2/pulls) and explain what feature has been improved.
+- In order for the contribution to be accepted, the code should be easy to understand with clear comments.
+
+## 🏖 Reference
+1. https://davidwells.io/snippets/how-to-align-images-in-markdown (how to align pictures)
