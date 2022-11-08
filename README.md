@@ -7,7 +7,7 @@
 <img align="center" width="1000" height="500" src=pic/fine.jpeg>
 
 ## 📃 Project Description
-This project aims to extract useful information from the parking infraction csv files available on the [City of Toronto portal](https://open.toronto.ca/dataset/parking-tickets/). The focus on this project is "park on private property". Through this project, you will be able to analyze any parking ticket files on the portal and know more about the consequences of parking on private property. Positional parameter has been set up in the script to make it easier for you to run any csv file in your computer!
+This project aims to extract useful information from the parking infraction csv files available on the [City of Toronto portal](https://open.toronto.ca/dataset/parking-tickets/). The focus of this project is on the "park on private property" infraction. Through this project, you will be able to analyze any parking ticket files on the portal and know more about the consequences of parking on private property. Positional parameter has been set up in the script to make it easier for you to run any csv file in your computer!
 
 ## 🔍 Usages
 This project can be used to extract the following information from the parking ticket csv files:
@@ -17,7 +17,7 @@ This project can be used to extract the following information from the parking t
 
 For example, through the following code, you would be able to see the mean of fine amount among all the parking infraction in the parking ticket csv file of your choice:
 
-In your terminal, when the script and csv file are both in your working directory, you can run the script as following:
+In your terminal, when the script and csv file are both in your working directory, you can run the script as follows:
 ```
 ./Yongran_Assignment1.sh (you csv file)
 ```
